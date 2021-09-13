@@ -36,8 +36,12 @@
 
 ## ⭐ Informações sobre minha conta GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PedroCollin&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroCollin&theme=tokyonight)
+<div>
+  <a href="https://github.com/PedroCollin">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroCollin&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroCollin&layout=compact&langs_count=7&theme=github_dark"/>
+</div>
+
 
 
 ![Snake animation](https://github.com/PedroCollin/PedroCollin/blob/output/github-contribution-grid-snake.svg)
