@@ -10,7 +10,7 @@
 
 > Sou estudante de análise e desenvolvimento de sistemas no instituto federal de São Paulo.
 
-🔭 Atualmente estou estudando e fazendo projetos na area de automação, focando em utilizar python.
+🔭 Atualmente estou estudando e fazendo projetos na area de automação, focando em utilizar python e javascript.
 
 ----
 
