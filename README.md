@@ -8,9 +8,9 @@
 
 > Trabalho na empresa [@Bosch](https://www.bosch.com.br/) na área desenvolvimento de sistemas e automação.
 
-> Sou estudante de análise e desenvolvimento de sistemas no instituto federal de São Paulo.
+> Sou estudante de análise e desenvolvimento de sistemas no instituto federal de São Paulo 3° semestre.
 
-🔭 Atualmente estou estudando e fazendo projetos na area de automação, focando em utilizar python e javascript.
+🔭 Atualmente estou estudando e fazendo projetos na area de automação processor, e estou focando em utilizar python e JS.
 
 ----
 
@@ -28,7 +28,7 @@
 <code><img height="32" src="https://hotsechu.files.wordpress.com/2021/03/mysqlworkbench_2.png" alt="MySQL"/></code>
 <code><img height="32" src="https://cdn.freebiesupply.com/logos/large/2x/vue-9-logo-png-transparent.png" alt="Vue.js"/></code>
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Nuxt_logo.svg/2560px-Nuxt_logo.svg.png" alt="Nuxt js"/></code>
-<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png" alt="Next js"/></code>
+<code><img height="32" src="https://www.creative-tim.com/assets/frameworks/icon-nextjs-552cecd0240ba0ae7b5fbf899c1ee10cd66f8c38ea6fe77233fd37ad1cff0dca.png" alt="Next js"/></code>
 <code><img height="32" src="https://iconape.com/wp-content/png_logo_vector/flutter-logo.png" alt="Flutter"/></code>
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/2203px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" alt="Excel"/></code>
 <code><img height="32" src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-icone.png" alt="Discord"/></code>
