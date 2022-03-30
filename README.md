@@ -30,6 +30,8 @@
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1200px-PyCharm_Icon.svg.png" alt="PyCharm"/></code>
 <code><img height="32" src="https://hotsechu.files.wordpress.com/2021/03/mysqlworkbench_2.png" alt="MySQL"/></code>
 <code><img height="32" src="https://cdn.freebiesupply.com/logos/large/2x/vue-9-logo-png-transparent.png" alt="Vue.js"/></code>
+<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Nuxt_logo.svg/2560px-Nuxt_logo.svg.png" alt="Nuxt js"/></code>
+<code><img height="32" src="https://iconape.com/wp-content/png_logo_vector/flutter-logo.png" alt="Flutter"/></code>
 
 
 
