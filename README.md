@@ -28,6 +28,7 @@
 <code><img height="32" src="https://hotsechu.files.wordpress.com/2021/03/mysqlworkbench_2.png" alt="MySQL"/></code>
 <code><img height="32" src="https://cdn.freebiesupply.com/logos/large/2x/vue-9-logo-png-transparent.png" alt="Vue.js"/></code>
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Nuxt_logo.svg/2560px-Nuxt_logo.svg.png" alt="Nuxt js"/></code>
+<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png" alt="Next js"/></code>
 <code><img height="32" src="https://iconape.com/wp-content/png_logo_vector/flutter-logo.png" alt="Flutter"/></code>
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/2203px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" alt="Excel"/></code>
 <code><img height="32" src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-icone.png" alt="Discord"/></code>
