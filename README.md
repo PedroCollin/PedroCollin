@@ -8,9 +8,7 @@
 
 > Trabalho na empresa [@Bosch](https://www.bosch.com.br/) na área desenvolvimento de sistemas e automação.
 
-> Sou estudante de análise e desenvolvimento de sistemas no instituto federal de São Paulo 4° semestre.
-
-🔭 Atualmente estou estudando e fazendo projetos na area de automação processor, e estou focando em utilizar python e JS.
+> Formado em análise e desenvolvimento de sistemas no instituto federal de São Paulo.
 
 ----
 
