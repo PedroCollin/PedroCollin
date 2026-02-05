@@ -6,7 +6,7 @@
 
 ## Sobre mim
 
-> Trabalho na empresa [@Bosch](https://www.bosch.com.br/) na área desenvolvimento de sistemas e automação.
+> Trabalho na empresa [@Bosch](https://www.bosch.com.br/) na área desenvolvimento de sistemas.
 
 > Formado em análise e desenvolvimento de sistemas no instituto federal de São Paulo.
 
